@@ -111,11 +111,12 @@ Copy code
 git push origin new-feature
 Open a pull request.
 Please refer to our CONTRIBUTING.md file for more detailed guidelines on contributing.
+```
 
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-Contact
+## Contact
 If you have any questions or suggestions, feel free to reach out:
 
 Matimba Maholobela
